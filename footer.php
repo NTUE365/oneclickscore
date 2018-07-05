@@ -4,7 +4,7 @@
 </a>
 <br />
 <h6>國北零時校園 NTUE@e0u<br />
-國北教 教政一 
+國北教 教政二 
 <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.facebook.com/dreammner.li" property="cc:attributionName" rel="cc:attributionURL">Rick Li </a>製作。
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 </a> 。<br />
 </h6>

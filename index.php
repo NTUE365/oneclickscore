@@ -46,10 +46,10 @@
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">NTUESA</h1>
+            <h1 class="cover-heading">國立臺北教育大學</h1>
             <p class="lead">一鍵快選</p>
             <p class="lead">
-        	<h3>國立台北教育大學 106學年一鍵教師問卷評分</h3>
+        	<h3>106學年一鍵教師問卷評分</h3>
               <a href="NTUE106/index.htm" class="btn btn-lg btn-default">一鍵問卷評分請點我</a>
             </p>
           </div>

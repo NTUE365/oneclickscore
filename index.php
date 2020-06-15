@@ -50,7 +50,7 @@
             <p class="lead">一鍵快選</p>
             <p class="lead">
         	<h3>108 學年一鍵教師問卷評分</h3>
-              <a href="NTUE107/index.htm" class="btn btn-lg btn-default">一鍵問卷評分請點我</a>
+              <a href="NTUE108/index.htm" class="btn btn-lg btn-default">一鍵問卷評分請點我</a>
             </p>
           </div>
 
